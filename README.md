@@ -15,4 +15,5 @@ Wi-Fi-enabled ESP32 connectivity
 Wokwi-based circuit simulation and testing
 
 Technologies & Tools
+
 ESP32 DevKit V1 | Arduino IDE | Embedded C/C++ | DHT22 | OLED SSD1306 | Relay Module | MQTT | ThingsBoard | Wokwi | IoT
